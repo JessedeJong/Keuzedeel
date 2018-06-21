@@ -89,6 +89,12 @@
             <?php include 'components/vaardigheden.php'; ?>
         <div class="spacer"></div>
             <?php include 'components/extra-notes.php' ?>
+        <div class="spacer"></div>
+        <br>
+        <h4>Bijzonderheden</h4>
+        <h6>(i.v.m. de mogelijkheden tot extra begeleiding)</h6>
+        <div class="spacer"></div>
+            <?php include 'components/extra-guidance.php'; ?>
     </form>
 </div>
 <footer>
