@@ -86,6 +86,7 @@
         <div class="spacer"></div>
         <?php include 'components/instelling.php'; ?>
         <div class="spacer"></div>
+        <?php include 'components/vaardigheden.php'; ?>
     </form>
 </div>
 <footer>
