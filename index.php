@@ -82,13 +82,13 @@
         <h4>Wat is uw indruk over de leerling op school</h4>
         <h6>(Goed, voldoende, zwak, onvoldoende)</h6>
         <div class="spacer"></div>
-        <?php include 'components/werkhouding.php'; ?>
+            <?php include 'components/werkhouding.php'; ?>
         <div class="spacer"></div>
-        <?php include 'components/instelling.php'; ?>
+            <?php include 'components/instelling.php'; ?>
         <div class="spacer"></div>
-        <?php include 'components/vaardigheden.php'; ?>
+            <?php include 'components/vaardigheden.php'; ?>
         <div class="spacer"></div>
-        <?php include 'components/extra-notes.php' ?>
+            <?php include 'components/extra-notes.php' ?>
     </form>
 </div>
 <footer>
