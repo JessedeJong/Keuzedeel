@@ -1,49 +1,41 @@
+/*!
+ * Copyright (c) 2018 Jesse de Jong
+ */
 html, body, header {
-    color: #000;
-    font-family: 'Roboto', sans-serif;
-    background-color: #000000!important;
-    border: none !important;
-}
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  background-color: #000000 !important;
+  border: none !important; }
 
 header {
-    background-image: url("https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?cs=srgb&dl=business-code-coding-270360.jpg&fm=jpg");
-    background-size: cover;
-    margin: 0 !important;
-    padding: 0 !important;
-    height: auto;
-    width: 100%;
-}
-
-.bg-black {
-    background-color: #000000 !important;
-}
+  background-image: url("https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?cs=srgb&dl=business-code-coding-270360.jpg&fm=jpg");
+  background-size: cover;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: auto;
+  width: 100%; }
 
 form {
-    margin: 1%;
-}
+  margin: 1%; }
 
-h4 {
-    color: rgba(226, 33, 123, 0.8) !important;
-}
-
-.purple {
-    color: rgba(226, 33, 123, 0.8) !important;
-}
-
-.custom-border:focus {
-    border-color: rgba(226, 33, 123, 0.8) !important;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(226, 33, 123, 1) !important;
-    outline: 0 none !important;
-}
-
-.nav-link {
-    color: rgba(226, 33, 123, 0.8) !important;
-}
+h4, h6 {
+  color: rgba(226, 33, 123, 0.8) !important; }
 
 .spacer {
-    margin-top: 2%;
-}
+  margin-top: 2%; }
 
 .logo {
-    max-height: 150px;
-}
+  max-height: 150px; }
+
+.purple {
+  color: rgba(226, 33, 123, 0.8) !important; }
+
+.custom-border:focus {
+  border-color: rgba(226, 33, 123, 0.8) !important;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px #e2217b !important;
+  outline: 0 none !important; }
+
+.nav-link {
+  color: rgba(226, 33, 123, 0.8) !important; }
+
+/*# sourceMappingURL=style.css.map */

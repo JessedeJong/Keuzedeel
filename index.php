@@ -77,6 +77,27 @@
                 </div>
             </div>
         </div>
+        <div class="spacer"></div>
+        <br>
+        <h4>Wat is uw indruk over de leerling op school</h4>
+        <h6>(Goed, voldoende, zwak, onvoldoende)</h6>
+        <div class="spacer"></div>
+        <h6>Werkhouding</h6>
+        <div class="col-md-6">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Concentratie</span>
+                </div>
+                <input type="text" class="form-control custom-border" name="concentration">
+            </div>
+            <br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Werkhouding</span>
+                </div>
+                <input type="text" class="form-control custom-border" name="workethic">
+            </div>
+        </div>
     </form>
 </div>
 <footer>

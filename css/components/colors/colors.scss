@@ -1,0 +1,13 @@
+.purple {
+  color: rgba(226, 33, 123, 0.8) !important;
+}
+
+.custom-border:focus {
+  border-color: rgba(226, 33, 123, 0.8) !important;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(226, 33, 123, 1) !important;
+  outline: 0 none !important;
+}
+
+.nav-link {
+  color: rgba(226, 33, 123, 0.8) !important;
+}
