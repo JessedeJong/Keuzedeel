@@ -1,4 +1,4 @@
-<div class="col-md-6">
+<div class="col-md-12">
     <div class="accordion" id="accordionSpecial">
         <div class="card">
             <div class="card-header" id="headingSpecial">

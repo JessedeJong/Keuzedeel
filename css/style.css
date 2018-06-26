@@ -38,4 +38,11 @@ h4, h6 {
 .nav-link {
   color: rgba(170, 23, 92, 0.8) !important; }
 
+@media (min-width: 992px) {
+  form {
+    width: 60%;
+    margin-left: 20%;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */

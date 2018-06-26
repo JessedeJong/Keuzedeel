@@ -8,6 +8,9 @@
 <meta name="keywords" content="keywords,here">
 <meta name="theme-color" content="#AA175C">
 
+<!--Google site verficitation-->
+<meta name="google-site-verification" content="mZzwiES4lWV-d541aC4GA6gs7qtT-BPKPH9lSowTf8Q" />
+
 <!--Favicon-->
 <link rel="shortcut icon" type="image/png" href="https://www.ma-web.nl/static/vector/Logo_blok.svg"/>
 <link rel="shortcut icon" type="image/png" href="https://www.ma-web.nl/static/vector/Logo_blok.svg"/>

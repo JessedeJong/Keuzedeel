@@ -1,5 +1,5 @@
 <h6>Werkhouding</h6>
-<div class="col-md-6">
+<div class="col-md-12">
     <div class="input-group">
         <div class="input-group-prepend">
             <span class="input-group-text">Concentratie</span>
