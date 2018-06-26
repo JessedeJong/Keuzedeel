@@ -27,7 +27,6 @@
                 </div>
                 <input type="text" class="form-control custom-border" name="birthdate">
             </div>
-            <h4></h4>
         </div>
         <div class="spacer"></div>
         <br>
