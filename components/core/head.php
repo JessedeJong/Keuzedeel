@@ -3,9 +3,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Intake formulier Mediacollege Amsterdam</title>
-<meta name="author" content="name">
-<meta name="description" content="description here">
+<meta name="author" content="Jesse de Jong">
+<meta name="description" content="Het intakeformulier voor nieuwe leerlingen van het Mediacollege Amsterdam.">
 <meta name="keywords" content="keywords,here">
+<meta name="theme-color" content="#AD1757">
 
 <!--Favicon-->
 <link rel="shortcut icon" type="image/png" href="https://www.ma-web.nl/static/vector/Logo_blok.svg"/>

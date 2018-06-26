@@ -17,15 +17,15 @@
                 <div class="input-group-prepend">
                     <span class="input-group-text">Voor en achternaam</span>
                 </div>
-                <input type="text" class="form-control custom-border" name="firstname">
-                <input type="text" class="form-control custom-border" name="lastname">
+                <input type="text" class="form-control custom-border" name="firstname" title="Voornaam">
+                <input type="text" class="form-control custom-border" name="lastname" title="Achternaam">
             </div>
 
             <div class="input-group spacer">
                 <div class="input-group-prepend">
                     <span class="input-group-text">Geboortedatum</span>
                 </div>
-                <input type="text" class="form-control custom-border" name="birthdate">
+                <input type="text" class="form-control custom-border" name="birthdate" title="Geboortedatum">
             </div>
         </div>
         <div class="spacer"></div>
