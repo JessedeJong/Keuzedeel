@@ -6,7 +6,7 @@
 <meta name="author" content="Jesse de Jong">
 <meta name="description" content="Het intakeformulier voor nieuwe leerlingen van het Mediacollege Amsterdam.">
 <meta name="keywords" content="keywords,here">
-<meta name="theme-color" content="#AD1757">
+<meta name="theme-color" content="#AA175C">
 
 <!--Favicon-->
 <link rel="shortcut icon" type="image/png" href="https://www.ma-web.nl/static/vector/Logo_blok.svg"/>
