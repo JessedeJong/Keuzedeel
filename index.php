@@ -12,21 +12,23 @@
 <br>
     <form>
         <div data-spy="scroll" data-target="#navbar" data-offset="0">
-            <div class="col-md-12">
-                <h4>Algemene informatie leerling</h4>
-                <div class="input-group">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text">Voor en achternaam</span>
+            <div class="jumbotron">
+                <div class="col-md-12">
+                    <h4>Algemene informatie leerling</h4>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Voor & achternaam</span>
+                        </div>
+                        <input type="text" class="form-control custom-border" name="firstname" title="Voornaam">
+                        <input type="text" class="form-control custom-border" name="lastname" title="Achternaam">
                     </div>
-                    <input type="text" class="form-control custom-border" name="firstname" title="Voornaam">
-                    <input type="text" class="form-control custom-border" name="lastname" title="Achternaam">
-                </div>
 
-                <div class="input-group spacer">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text">Geboortedatum</span>
+                    <div class="input-group spacer">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Geboortedatum</span>
+                        </div>
+                        <input type="text" class="form-control custom-border" name="birthdate" title="Geboortedatum">
                     </div>
-                    <input type="text" class="form-control custom-border" name="birthdate" title="Geboortedatum">
                 </div>
             </div>
         </div>
@@ -98,6 +100,10 @@
         <h6>(i.v.m. de mogelijkheden tot extra begeleiding)</h6>
         <div class="spacer"></div>
             <?php include 'components/extra-guidance.php'; ?>
+        <div class="spacer"></div>
+        <br>
+        <h4>Gegevens mentor/decaan</h4>
+            <?php include 'components/mentor-info.php'; ?>
     </form>
 </div>
 <footer>

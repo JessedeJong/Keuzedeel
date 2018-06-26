@@ -1,6 +1,6 @@
 <div class="input-group">
     <div class="input-group-prepend">
-        <span class="input-group-text">Diploma gehaald / te behalen op:</span>
+        <span class="input-group-text">Datum diplomering:</span>
     </div>
     <input type="text" class="form-control custom-border" name="graduated" title="Diplomering">
 </div>
