@@ -5,7 +5,7 @@
 <title>Intake formulier Mediacollege Amsterdam</title>
 <meta name="author" content="Jesse de Jong">
 <meta name="description" content="Het intakeformulier voor nieuwe leerlingen van het Mediacollege Amsterdam.">
-<meta name="keywords" content="keywords,here">
+<meta name="keywords" content="Intake,formulier,Mediacollege,Amsterdam">
 <meta name="theme-color" content="#AA175C">
 
 <!--Google site verficitation-->

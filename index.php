@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <?php include 'components/core/head.php'; ?>
 </head>
@@ -8,9 +8,15 @@
         <img class="logo left" src="https://www.ma-web.nl/static/vector/Logo_blok.svg" title="Mediacollege" alt="MA Logo">
     </header>
 <div class="spacer"></div>
+
 <div class="col-md-12">
 <br>
     <form>
+        <h1 class="purple">Intake formulier Mediacollege Amsterdam</h1>
+        <p class="purple">
+            Dit is het online intake formulier van het Mediacollege Amsterdam. Dit formulier behoord te worden
+            ingevuld door de bevoegde decaan of mentor van de middelbare school/instelling.
+        </p>
         <div data-spy="scroll" data-target="#navbar" data-offset="0">
             <div class="jumbotron">
                 <div class="col-md-12">
@@ -104,6 +110,7 @@
         <br>
         <h4>Gegevens mentor/decaan</h4>
             <?php include 'components/mentor-info.php'; ?>
+        <div class="spacer"></div>
     </form>
 </div>
 <footer>

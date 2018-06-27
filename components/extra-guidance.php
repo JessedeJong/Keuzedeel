@@ -48,7 +48,7 @@
                         </div>
                     </div>
                     <br>
-                    <h6>Is de leerling recent besproken in het extern zorg- en adviesteam (ZAT)</h6>
+                    <h6>Is de leerling besproken in het extern zorg en adviesteam (ZAT)</h6>
                     <div class="input-group">
                         <div class="form-check form-check-inline">
                             <input class="form-check-input" type="radio" name="dyscalculie_radio" id="inlineRadio26" value="yes">
