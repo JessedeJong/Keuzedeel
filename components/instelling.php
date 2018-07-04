@@ -9,7 +9,7 @@
     <div class="spacer"></div>
     <div class="input-group">
         <div class="input-group-prepend">
-            <span class="input-group-text">Doorzettingsvermogen</span>
+            <span class="input-group-text">Doorzetting</span>
         </div>
         <input type="text" class="form-control custom-border" name="willpower" title="Doorzetting">
     </div>

@@ -2,13 +2,9 @@
     <div class="jumbotron">
         <div class="input-group">
             <div class="input-group-prepend">
-                <span class="input-group-text">Voornaam</span>
+                <span class="input-group-text">Naam</span>
             </div>
-            <input type="text" class="form-control custom-border" name="mentor_first_name" title="Voornaam mentor">
-            <div class="input-group-prepend">
-                <span class="input-group-text">Achternaam</span>
-            </div>
-            <input type="text" class="form-control custom-border" name="mentor_last_name" title="Achternaam mentor">
+            <input type="text" class="form-control custom-border" name="mentor_name" title="Mentor">
         </div>
         <br>
         <div class="input-group">
@@ -41,6 +37,9 @@
                 <span class="input-group-text">Naam school</span>
             </div>
             <input type="text" class="form-control custom-border" name="name_school" title="Naam school">
+        </div>
+        <br>
+        <div class="input-group">
             <div class="input-group-prepend">
                 <span class="input-group-text">Plaats</span>
             </div>
@@ -52,12 +51,20 @@
                 <span class="input-group-text">Telefoon</span>
             </div>
             <input type="text" class="form-control custom-border" name="mentor_phone" title="Telefoon">
+        </div>
+        <br>
+        <div class="input-group">
             <div class="input-group-prepend">
-                <span class="input-group-text">Telefonisch contact gewenst?</span>
+                <span class="input-group-text">Contact gewenst?</span>
             </div>
             <input type="text" class="form-control custom-border" name="phone_contact" title="Telefonisch contact">
         </div>
-        <div class="spacer"></div>
-        <input type="submit" class="btn btn-purple" placeholder="Versturen">
+        <br>
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Email student</span>
+            </div>
+            <input type="text" class="form-control custom-border" name="student_email" title="Email student">
+        </div>
     </div>
 </div>

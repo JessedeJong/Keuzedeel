@@ -1,0 +1,8 @@
+{
+  "name": "Intakeformulier Mediacollege Amsterdam ",
+  "short_name": "MA Intake",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Het intake formulier voor nieuwe leerlingen van het Mediacollege Amsterdam"
+}

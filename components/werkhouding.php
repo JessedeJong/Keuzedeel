@@ -16,7 +16,7 @@
     <div class="spacer"></div>
     <div class="input-group">
         <div class="input-group-prepend">
-            <span class="input-group-text">Zelfstandig werken in de klas</span>
+            <span class="input-group-text">Zelfstandigheid</span>
         </div>
         <input type="text" class="form-control custom-border" name="workethic" title="Zelfstandigheid">
     </div>

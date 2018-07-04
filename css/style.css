@@ -39,13 +39,42 @@ h4, h6 {
   color: rgba(170, 23, 92, 0.8) !important; }
 
 @media (min-width: 992px) {
-  form {
+  form{
     width: 60%;
     margin-left: 20%;
   }
 }
+.form-submit{
+  color: #FFFFFF;
+  width: 100%;
+}
 
-.btn-purple {
-  background-color: rgba(170, 23, 92, 0.8); }
+@media (max-width: 991px) {
+  .form-submit {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+}
 
-/*# sourceMappingURL=style.css.map */
+/*Make sure the info table is scrollable on mobile and other small screens*/
+@media (max-width: 767px){
+  .table-scroll {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+  }
+}
+
+.btn-purple, .bckgrnd-purple {
+  background-color: rgba(170, 23, 92, 0.8) !important;
+  color: #FFFFFF; }
+
+.custom-list {
+  list-style-type: none;
+}
+
+.list {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}

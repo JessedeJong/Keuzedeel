@@ -46,7 +46,7 @@
 <div class="spacer"></div>
 <div class="input-group">
     <div class="input-group-prepend">
-        <span class="input-group-text">Keuzevak MVI gevolgd?</span>
+        <span class="input-group-text">Keuzevak MVI</span>
     </div>
-    <input type="text" class="form-control custom-border" name="extra_mvi" placeholder="Zo ja, welk vak?">
+    <input type="text" class="form-control custom-border" name="extra_mvi">
 </div>

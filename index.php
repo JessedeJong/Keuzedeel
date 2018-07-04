@@ -8,22 +8,26 @@
         <img class="logo left" src="https://www.ma-web.nl/static/vector/Logo_blok.svg" title="Mediacollege" alt="MA Logo">
     </header>
 <div class="spacer"></div>
-
 <div class="col-md-12">
 <br>
-    <form>
+    <ul class="nav justify-content-end">
+        <li class="nav-item">
+            <a class="nav-link active" href="overview.php" title="Beheerpagina">Beheerpagina</a>
+        </li>
+    </ul>
+    <form method="post" action="overview.php">
         <h1 class="purple">Intake formulier Mediacollege Amsterdam</h1>
         <p class="purple">
             Dit is het online intake formulier van het Mediacollege Amsterdam. Dit formulier behoord te worden
             ingevuld door de bevoegde decaan of mentor van de middelbare school/instelling.
         </p>
-        <div data-spy="scroll" data-target="#navbar" data-offset="0">
+        <div>
             <div class="jumbotron">
                 <div class="col-md-12">
                     <h4>Algemene informatie leerling</h4>
                     <div class="input-group">
                         <div class="input-group-prepend">
-                            <span class="input-group-text">Voor & achternaam</span>
+                            <span class="input-group-text">Naam</span>
                         </div>
                         <input type="text" class="form-control custom-border" name="firstname" title="Voornaam">
                         <input type="text" class="form-control custom-border" name="lastname" title="Achternaam">
@@ -111,6 +115,9 @@
         <h4>Gegevens mentor/decaan</h4>
             <?php include 'components/mentor-info.php'; ?>
         <div class="spacer"></div>
+        <div class="col-md-6">
+            <input type="submit" class="btn btn-purple form-submit" value="Versturen">
+        </div>
     </form>
 </div>
 <footer>
